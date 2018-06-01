@@ -49,7 +49,7 @@ div#division2{border:solid 0px black; color:white; height:100px;width:700px; flo
 <br/><br/><br/><br/><br/><br/>
 <h3 align="center"/>시간표</h3>
 <p align="center"/><b> 18년 1학기</b><br/><br/>
-<img src="ddddd.PNG" width="550" height="650"/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img src="class.PNG" width="550" height="650"/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h3 align="center"/>미래 계획</h3>
 <font face="고딕" color="#FFFFFF" size="5"><p  align="center">html, java, css 관련 자격증 취득 후 웹 프로그래머가 되는 것입니다.
     <br/>그리고 이번 여름방학은 부족했던 전공과목 공부를 위해 여름학기 공부 및 아르바이트 위주로지낼 예정이며 코딩을 스스로 짤 수 있는 수준을 하나라도 만드는것이 목표입니다.
@@ -62,7 +62,7 @@ div#division2{border:solid 0px black; color:white; height:100px;width:700px; flo
 </div>
 <a href="pf.html#c1">　맨위로</a>
 <footer>
-<p>&copy; 2017 Made by Kim Seong Ho. All rights reserved.</p>
+<p>&copy; 2017 Made by keynes. All rights reserved.</p>
 </footer>
 </body>
 </html>
