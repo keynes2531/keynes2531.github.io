@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style>
+div#division1{border:solid 0px black; color:white; height:100px;width:600px; float:left;}
+div#division2{border:solid 0px black; color:white; height:100px;width:700px; float:left;}
+</style>
+<title>20141605 김성호</title>
+<link rel="stylesheet" href="pf.css">
+</head>
+<body bgcolor="#B4E7FF">
+<h1>포트폴리오</h1>
+<nav class="x">
+<ul>
+    <li><a href="#c1" id="c1">홈</a></li>
+    <li><a href="#c2">자기 소개</a></li>
+    <li><a href="#c3">수업 수강 내역</a></li>
+    <li><a href="#c4">취미</a></li>
+    <li><a href="#c5">기타</a></li>
+</ul>
+</nav>
+<img src="qwe.jpg" width="300" height="400" align="left"/>
+<font color="white"><h3 id="c2">　Profile</h3>
+<div id="division1">
+<p>　이름　김성호</p>
+<p>　휴대전화　010 - 9941 - 7815</p>
+<p>　학번　20141605</p>
+<p>　생년월일　1995 03 10</p>
+<p>　나이　23세</p>
+<p>　거주지　인천시 남구 주안동</p>
+<p>　학력　대전대학교 컴퓨터 공학과 재학중</p>
+<p>　취미　게임</p></div>
+<div id="division2">
+<p>1995. 03　서울 출생</p>
+<p>2014. 02　고등학교 졸업</p>
+<p>2014. 03~12　대학교 입학</p>
+<p>2014.12~2015.04　편의점 야간알바생</p>
+<p>2015.04~2017.01　군대..</p>
+<p>2017.01~03　보조출연 아르바이트</p>
+<p>2017.03 ~ 현재 대학교 복학
+</font></div>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<h3 align="center" id="c3"/>수업 수강 내용</h3>
+<p align="center"/><b> 14년도 1학기</b><br/><br/>
+<img src="14-1.PNG" width="800" height="200"/><br/><br/>
+<p align="center"/><b> 14년도 2학기</b><br/><br/>
+<img src="14-2.PNG" width="800" height="200"/><br/><br/>
+<b> 17년도 1학기</b><br/><br/>
+<img src="17-1.PNG" width="800" height="200"/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+<h3 align="center"/>시간표</h3>
+<p align="center"/><b> 17년 1학기</b><br/><br/>
+<img src="ddddd.PNG" width="550" height="650"/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<h3 align="center"/>미래 계획</h3>
+<font face="고딕" color="#FFFFFF" size="5"><p  align="center">html, java, css 관련 자격증 취득 후 웹 프로그래머가 되는 것입니다.
+    <br/>그리고 이번 여름방학은 부족했던 전공과목 복습 및 영어, 일본어 공부를 할 것이며 아르바이트하며 친구들과 국내여행다니기 등등을 계획하고 있습니다.
+<br/>기회가 된다면 일본어 공부를 통해 JLPT 자격증 취득 후 일본 IT업계에서 일 하는 것이 최종 목표입니다.</font><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<h3 align="center" id="c4"/>나의 취미</h3><br/><br/><br/>
+<img src="1.jpg" width="550" height="550"/><img src="7.jpg" width="550" height="550"/><img src="5.jpg" width="550" height="550"/><img src="2.jpg" width="550" height="550"/><img src="6.jpg" width="550" height="550"/><img src="3.jpg" width="550" height="550"/>
+<br/><br/><br/><br/><br/><br/>
+<h3 align="center" id="c5"/>그 외</h3><br/><br/><br/>
+<img src="asdf.gif" width="550" height="550"/><img src="asdfg.gif" width="550" height="550"/><img src="zxcv.gif" width="550" height="550"/>
+</div>
+<a href="pf.html#c1">　맨위로</a>
+<footer>
+<p>&copy; 2017 Made by Kim Seong Ho. All rights reserved.</p>
+</footer>
+</body>
+</html>
