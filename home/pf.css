@@ -17,7 +17,6 @@
 
 @media all and (max-width: 600px) {
   .x ul {
-    flex-flow: column wrap;
     padding: 0;
   }
 }
