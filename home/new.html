@@ -2,10 +2,11 @@
 <html>
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"/>
-<style>
+<style>*{box-sizing:border-box; padding:0; margin:0;} .row::after{content:""; clear:both;display:table; }
+.col-1{width:25%;}.col-2{width:50%;}
     #a1new{font-style:sans-serif; color:magenta;}
-div#division1{border:solid 0px black; color:Magenta; height:100px;width:600px; float:left;}
-div#division2{border:solid 0px black; color:magenta; height:100px;width:800px; float:center;}
+div#division1{border:solid 0px black; color:Magenta;}
+div#division2{border:solid 0px black; color:magenta;height:100px;width:800px; float:center;}
 </style>
 <title>20141622 이승환</title>
 <link rel="stylesheet" href="pf.css">
@@ -21,9 +22,12 @@ div#division2{border:solid 0px black; color:magenta; height:100px;width:800px; f
     <li><a href="#c5">github주소 및 html작성기록</a></li>
 </ul>
 </nav>
-<img src="my.png" width="300" height="400" align="center"/>
+<nav class="col-2">
+<img src="my.png" width="300" height="400"/>
+</nav>
 <font color="Magenta"><h4 id="c2">　Profile</h4>
 <div id="division1">
+<nav class="col-1">
 <p>　이름　이승환</p>
 <p>　휴대전화　010-2531-5847</p>
 <p>　학번　20141622</p>
@@ -31,13 +35,15 @@ div#division2{border:solid 0px black; color:magenta; height:100px;width:800px; f
 <p>　나이　24세</p>
 <p>　거주지　대전시 중구 오류동</p>
 <p>　학력　대전대학교 컴퓨터 공학과 재학중</p>
-<p>　취미　게임</p></div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p>　취미　게임</p></nav></div>
+
 <div id="division2">
+<nav class="col-1">
 <p>1995. 07　대전 출생</p>
 <p>2014. 02　고등학교 졸업</p>
 <p>2014. 03　대학교 입학</p>
 <p>2018. 06  대학교 재학중</p>
-</div></font>
+</nav></div></font>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <h3 align="center" id="c3">수업 수강 내용</h3>
@@ -72,7 +78,7 @@ div#division2{border:solid 0px black; color:magenta; height:100px;width:800px; f
     <br/>실습 자료 목록은 <a href="https://keynes2531.github.io/index.html">여기</a>로 가시면 보실 수 있으며 혹시 이용하실 때 카카오톡 메세지 보내주시면 감사하겠습니다.</a1>
     <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     
-<a href="new.html#c1">　맨위로</a>
+<a href="project.html#c1">　맨위로</a>
 <footer>
 <p>&copy; 2017 Made by keynes. All rights reserved.</p>
 </footer>
